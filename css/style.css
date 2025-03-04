@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  background-color: lightgray;
+}
+
+/*****head*****/
+
+header,
+.top {
+  background-color: white;
+
+  margin: 0 auto;
+  padding: 15px;
+}
+
+header .top {
+  display: inline-block;
+  margin: 0;
+  padding: 3px;
+}
+
+header .top .img {
+  align-items: center;
+}
+
+/*****main*****/
+
+main {
+  background-color: lightgray;
+}
+
+/*****footer*****/
