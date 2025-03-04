@@ -50,4 +50,8 @@ span .fondo .text {
   margin-left: 150px;
 }
 
+button .button {
+  border-radius: 50%;
+}
+
 /*****footer*****/
